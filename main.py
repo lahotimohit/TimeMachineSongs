@@ -3,8 +3,8 @@ import bs4
 import spotipy
 from spotipy.oauth2 import SpotifyOAuth
 
-SPOTIFY_ID = "dd6bdf549113485fb33e4e66a64c3a82"
-SPOTIFY_SECRET = "cc9754a272bd46c898a09be59842674a"
+SPOTIFY_ID = "*********************"
+SPOTIFY_SECRET = "********************"
 REDIRECT_URL = "http://example.com"
 
 date = input("Which year do you want to travel to? Type the date in this format YYYY-MM-DD: ")
